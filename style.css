@@ -34,10 +34,6 @@ ul li a:hover {
     color: black;
 }
 
-ul.li.active a {
-    background-color:white;
-    color: black;
-}
 
 .main {
     max-width: 1200px;
